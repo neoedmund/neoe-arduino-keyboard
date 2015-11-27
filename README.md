@@ -16,8 +16,8 @@ I wanna to make a keyboard too. After I soldered stuffs togather, I found a seri
 
 The problem is
 
-1. I used a `Arduino Micro`, not `UNO`
-2. All my Arduino, Micro or UNO, are Chinese clones, no atmega8u2 but replaced by `CH340G`.
+1. I used a `Arduino Nano`, not `UNO`
+2. All my Arduino, Nano or UNO, are Chinese clones, no atmega8u2 but replaced by `CH340G`.
 
 I checked the CH340G datasheet, found it *not likely** to be turned into a USB-HID.
 
