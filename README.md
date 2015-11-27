@@ -11,7 +11,7 @@ processor to link to PC for programming.
 I wanna to make a keyboard too. After I soldered stuffs togather, I found a serious problem though.
 
 
-![front](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bback.jpg "front")  ![back](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bback.jpg "back")
+![front](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bfront.jpg "front")  ![back](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bback.jpg "back")
 
 
 The problem is
