@@ -11,13 +11,15 @@ processor to link to PC for programming.
 I wanna to make a keyboard too. After I soldered stuffs togather, I found a serious problem though.
 
 
-![front](https://github.com/neoedmund/neoe-arduino-keyboard.git/raw/master/pic/bback.jpg "front")
-![back](https://github.com/neoedmund/neoe-arduino-keyboard.git/raw/master/pic/bback.jpg "back")
+![front](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bback.jpg "front")
+![back](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bback.jpg "back")
 
 
-The problem is 
-1. I used a `Arduino Micro`, but `UNO`
-2. All my Arduino, Micro or UNO, are Chinese clone, no atmega8u2 but replaced by `CH340G`.
+The problem is
+
+1. I used a `Arduino Micro`, not `UNO`
+2. All my Arduino, Micro or UNO, are Chinese clones, no atmega8u2 but replaced by `CH340G`.
+
 I checked the CH340G datasheet, found it *not likely** to be turned into a USB-HID.
 
 
@@ -39,7 +41,7 @@ z(mount)	g(pin map)	TAB(talent view)
 ```
 
 
-![heroes](https://github.com/neoedmund/neoe-arduino-keyboard.git/raw/master/pic/bview.jpg "heroes")
+![heroes](https://github.com/neoedmund/neoe-arduino-keyboard/raw/master/pic/bview.jpg "heroes")
 
 
 because Arduino has 11 IO Pin available, which is D2-D12.  D0,D1 is used for timing, D13 used for LED on board.
